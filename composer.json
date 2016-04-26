@@ -1,0 +1,16 @@
+{
+    "name": "understeam/yii2-multi-mailer",
+    "description": "Yii2 mailing component which allows to configure multiple mailing components and send emails more solid way",
+    "type": "extension",
+    "require": {
+        "yiisoft/yii2": ">=2"
+    },
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Anatoly Rugalev",
+            "email": "anatoly.rugalev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
