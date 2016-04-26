@@ -12,5 +12,10 @@
             "email": "anatoly.rugalev@gmail.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "understeam\\multimailer\\": "src"
+        }
+    }
 }
